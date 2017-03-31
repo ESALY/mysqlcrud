@@ -1,7 +1,7 @@
 {
   "name": "ruslanakhmetov/mysqlcrud",
   "description": "This is a simple mysql CRUD libary.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Ruslan Akhmetov",
   "autoload": {
     "classmap": ["src/"]
